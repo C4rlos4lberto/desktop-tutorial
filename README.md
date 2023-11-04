@@ -10,3 +10,4 @@ Write your name on line 6, save it, and then head back to GitHub Desktop.
   ## Salvando alteraçlção no 
   * comando git push
   * comando git pull
+* comando git fetch
